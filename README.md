@@ -11,7 +11,7 @@
 5. For customization change .xlsx file along with signatureImg and html code part.
 
 Reach me out at: 
-    Email: ahmed8858766@gmail.com
+    Email:
     [ahmed8858766@gmail.com](mailto:ahmed8858766@gmail.com)
     LinkedIn: [https://www.linkedin.com/in/ahmadinit/](https://www.linkedin.com/in/ahmadinit/)
     or [datascienceportfol.io/ahmadinit](https://datascienceportfol.io/ahmadinit)
